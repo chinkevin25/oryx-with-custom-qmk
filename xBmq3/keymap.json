@@ -1,6 +1,7 @@
 {
     "modules": [
         "zsa/oryx",
-        "zsa/defaults"
+        "zsa/defaults",
+        "srwi/keypeek_layer_notify"
     ]
 }
