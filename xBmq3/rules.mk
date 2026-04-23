@@ -8,3 +8,5 @@ CAPS_WORD_ENABLE = yes
 
 SRC += oneshot.c
 SRC += swapper.c
+
+REPEAT_KEY_ENABLE = yes
